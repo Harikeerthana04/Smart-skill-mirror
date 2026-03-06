@@ -1,13 +1,13 @@
 # Smart Skill Mirror – AR-Based Machine Training Platform
 
-## 📌 Overview
+##  Overview
 Smart Skill Mirror is an **Augmented Reality (AR) based training platform** designed to provide interactive and real-time guidance for operating industrial machinery. The system overlays step-by-step digital instructions on physical machines using AR-enabled devices such as smartphones, tablets, or smart glasses.
 
 The goal of this project is to **improve training efficiency, safety, and accessibility** by enabling hands-free learning and reducing dependence on expert trainers. :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Provide immersive **hands-on machine training**
 - Reduce dependency on expert trainers
 - Improve **learning speed and retention**
@@ -16,7 +16,7 @@ The goal of this project is to **improve training efficiency, safety, and access
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 - Augmented Reality based instruction overlay
 - Step-by-step visual training guidance
 - Voice command support
@@ -27,7 +27,7 @@ The goal of this project is to **improve training efficiency, safety, and access
 
 ---
 
-## 🏗️ System Architecture
+##  Key components
 The Smart Skill Mirror system consists of several components working together:
 
 1. **AR Device** – Smartphone, tablet, or smart glasses used for scanning machinery  
@@ -35,11 +35,9 @@ The Smart Skill Mirror system consists of several components working together:
 3. **Cloud Server** – Stores training modules and content  
 4. **User Progress Tracker** – Tracks trainee performance and completion status  
 
-The block diagram in the proposal (page 2) shows how the AR device connects to the instruction interface and cloud server to deliver training modules. :contentReference[oaicite:1]{index=1}
-
 ---
 
-## ⚙️ Technology Stack
+##  Technology Stack
 - **Frontend:** Mobile Application (Android / iOS)
 - **AR Technology:** ARCore / ARKit / Unity AR
 - **Backend:** Cloud-based server
@@ -48,7 +46,7 @@ The block diagram in the proposal (page 2) shows how the AR device connects to t
 
 ---
 
-## 🔄 Working Process
+##  Working Process
 1. The AR device scans the machine.
 2. The system identifies the machine and loads the corresponding training module.
 3. Step-by-step instructions or animations are displayed directly on the machine.
@@ -60,7 +58,7 @@ This approach improves accuracy and reduces training time. :contentReference[oai
 
 ---
 
-## 🌍 Benefits
+##  Benefits
 - Faster skill development
 - Reduced training cost
 - Improved workplace safety
@@ -68,31 +66,7 @@ This approach improves accuracy and reduces training time. :contentReference[oai
 - Useful for industries, vocational institutes, and training centers
 
 ---
-
-## 🚀 Market Opportunities
-With the rise of **Industry 4.0**, industries such as manufacturing, automotive, aerospace, and construction require modern training solutions. AR-based training platforms like Smart Skill Mirror provide scalable and interactive training methods. :contentReference[oaicite:3]{index=3}
-
----
-
-## 💰 Estimated Budget
-| Expense Item | Estimated Cost |
-|---------------|---------------|
-| Software Development | ₹80,000 |
-| AR Devices | ₹60,000 |
-| Hardware Components | ₹25,000 |
-| 3D Content Creation | ₹30,000 |
-| Mentor Fees | ₹20,000 |
-| Travel Expenses | ₹15,000 |
-| Marketing | ₹20,000 |
-| Software Licensing | ₹15,000 |
-| Documentation | ₹5,000 |
-| Contingencies | ₹30,000 |
-
-**Total Estimated Budget: ₹3,00,000** :contentReference[oaicite:4]{index=4}
-
----
-
-## 📈 Future Enhancements
+##  Future Enhancements
 - AI-based skill assessment
 - Multi-language instruction support
 - Integration with IoT-enabled machines
@@ -100,11 +74,6 @@ With the rise of **Industry 4.0**, industries such as manufacturing, automotive,
 - Analytics dashboard for trainers
 
 ---
-
-## 👨‍💻 Authors
-Project developed as part of an innovation project focused on **AR-powered industrial skill training and digital transformation**.
-
+Devoloped for
 ---
-
-## 📄 License
-This project is developed for educational and research purposes.
+## Hackathon submission-MSME 5.0
