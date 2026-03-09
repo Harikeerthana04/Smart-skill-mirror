@@ -74,6 +74,6 @@ This approach improves accuracy and reduces training time. :contentReference[oai
 - Analytics dashboard for trainers
 
 ---
-Devoloped for
+Developed for
 ---
 ## Hackathon submission-MSME 5.0
